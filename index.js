@@ -28,5 +28,6 @@ fillBody(
   formalGoodbye
 );*/
 
+
 fillSubject('Pozvánka na oslavu narozenin');
 fillBody('Zítra oslava. 18:00 ve Starý hospodě.', 'Patrik Veselý', rudeGoodbye);
